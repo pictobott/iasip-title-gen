@@ -8,4 +8,4 @@ how to edit:
 
 also would like to apologise in advance for any messy code, still not an expert or anything at it yet
 
-created by cyborg and saipa :)
+created by pictobott and saipa :)
